@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-flexbox-and-css-grid-W2UkRkV7Uq)
 - Live Site URL: [Stats Preview Card](https://stats-preview-card-alejandro.netlify.app)
 
 ## My process
