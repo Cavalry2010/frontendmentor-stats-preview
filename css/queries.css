@@ -1,0 +1,50 @@
+@media (max-width: 26em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  .container {
+    margin: 3.2rem auto;
+  }
+
+  .preview-card-box {
+    max-width: 36rem;
+    grid-template-columns: 1fr;
+    align-items: center;
+    text-align: center;
+  }
+
+  .preview-card-text-box {
+    padding: 4rem 3.2rem 4rem 3.2rem;
+  }
+
+  .heading-primary {
+    font-size: 3rem;
+    margin-bottom: 1.8rem;
+  }
+
+  .preview-card-text {
+    padding: 0 1.2rem;
+    line-height: 1.8;
+    font-size: 1.6rem;
+    margin-bottom: 4.8rem;
+  }
+
+  .stats-box {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    gap: 4rem;
+  }
+
+  .preview-card-img {
+    background-image: linear-gradient(
+        rgba(117, 15, 180, 0.5),
+        rgba(117, 15, 180, 0.5)
+      ),
+      url("../images/image-header-mobile.jpg");
+    grid-row: 1 / -1;
+    height: 0;
+    padding-bottom: 73.39%;
+  }
+}
